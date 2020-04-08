@@ -1,0 +1,57 @@
+Logurile pentru TaskManager: la data de 2020-04-07T19:39:18.517392 
+
+Logurile pentru TaskManager: la data de 2020-04-07T19:39:48.786514 
+
+Tue Apr 07 19:39:52 EEST 2020 AuctioneerMicroservice: Am inceput treaba 
+
+Tue Apr 07 19:40:33 EEST 2020 AuctioneerMicroservice: Am primit in total 1 
+
+Tue Apr 07 19:40:33 EEST 2020 AuctioneerMicroservice: Am primit in terminat treaba 
+
+Monitorizare incheiata la data de: la data de 2020-04-07T19:41:33.322944
+Logurile pentru TaskManager: la data de 2020-04-07T19:58:52.661249 
+
+Tue Apr 07 19:58:56 EEST 2020 MessageProcessorMicroservice: Am inceput treaba 
+
+Tue Apr 07 19:59:00 EEST 2020 BiddingProcessor: Am inceput treaba 
+
+Tue Apr 07 19:59:04 EEST 2020 AuctioneerMicroservice: Am inceput treaba 
+
+Tue Apr 07 19:59:41 EEST 2020 AuctioneerMicroservice: Am primit in total 1 
+
+Tue Apr 07 19:59:41 EEST 2020 MessageProcessorMicroservice: Am primit si procesat 1 
+
+Tue Apr 07 19:59:41 EEST 2020 MessageProcessorMicroservice: Am terminat treaba 
+
+Tue Apr 07 19:59:41 EEST 2020 BiddingProcessor: Am primit 1 
+
+Tue Apr 07 19:59:41 EEST 2020 BiddingProcessor: Am terminat treaba 
+
+Tue Apr 07 19:59:41 EEST 2020 AuctioneerMicroservice: Am primit in terminat treaba 
+
+Monitorizare incheiata la data de: la data de 2020-04-07T20:00:41.776167 
+
+
+
+Logurile pentru TaskManager: la data de 2020-04-07T20:09:27.933581 
+
+Tue Apr 07 20:09:30 EEST 2020 MessageProcessorMicroservice: Am inceput treaba 
+
+Tue Apr 07 20:09:33 EEST 2020 BiddingProcessor: Am inceput treaba 
+
+Tue Apr 07 20:09:39 EEST 2020 AuctioneerMicroservice: Am inceput treaba 
+
+Tue Apr 07 20:10:29 EEST 2020 AuctioneerMicroservice: Am primit in total 2 
+
+Tue Apr 07 20:10:29 EEST 2020 MessageProcessorMicroservice: Am primit si procesat 2 
+
+Tue Apr 07 20:10:29 EEST 2020 MessageProcessorMicroservice: Am terminat treaba 
+
+Tue Apr 07 20:10:29 EEST 2020 BiddingProcessor: Am primit 2 
+
+Tue Apr 07 20:10:29 EEST 2020 BiddingProcessor: Am terminat treaba 
+
+Tue Apr 07 20:10:29 EEST 2020 AuctioneerMicroservice: Am  terminat treaba 
+
+Monitorizare incheiata la data de: la data de 2020-04-07T20:11:29.523654 
+
