@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a474825-63a5-499a-9e78-276f30a997a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1agHT2M1AuvLppPDEgWUNdlAz11" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a474825-63a5-499a-9e78-276f30a997a5" name="Default Changelist" comment="" />
+      <created>1587150320930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587150320930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587153818973">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1587153818973" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1587213773737">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1587213773737" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1587158299011" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1587213773736">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1587213773736" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1587158299010" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1587213773735">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1587213773735" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1587158299009" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1587213773736">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1587213773736" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1587158299010" />
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1587197516162">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1587197516162" />
+    <state x="273" y="257" key="new project wizard" timestamp="1587150394946">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="273" y="257" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1587150394946" />
+    <state x="561" y="251" key="search.everywhere.popup" timestamp="1587206997975">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1587206997975" />
+  </component>
+</project>

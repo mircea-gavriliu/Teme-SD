@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e2f8c6-6dae-46e8-a63a-e25bb9efd0b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XlKlO0028Va0Wx070UvFtAeQaP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="com.sd.laborator.StudentMicroserviceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="StudentMicroservice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.sd.laborator.StudentMicroserviceKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.com.sd.laborator.StudentMicroserviceKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1e2f8c6-6dae-46e8-a63a-e25bb9efd0b2" name="Default Changelist" comment="" />
+      <created>1581615390537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581615390537</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1587213757798">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1587209720375" />
+    <state width="1870" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1037@0.0.1920.1037" timestamp="1581695767191" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1587213757798" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1587213757797">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1587209720374" />
+    <state width="1870" height="344" key="GridCell.Tab.0.center/0.0.1920.1037@0.0.1920.1037" timestamp="1581695767190" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1587213757797" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1587213757796">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1587209720373" />
+    <state width="1870" height="344" key="GridCell.Tab.0.left/0.0.1920.1037@0.0.1920.1037" timestamp="1581695767189" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1587213757796" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1587213757797">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1587209720375" />
+    <state width="1870" height="344" key="GridCell.Tab.0.right/0.0.1920.1037@0.0.1920.1037" timestamp="1581695767190" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1587213757797" />
+    <state x="434" y="222" key="Maven.ArtifactSearchDialog" timestamp="1587134968062">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="434" y="222" key="Maven.ArtifactSearchDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1587134968062" />
+    <state x="62" y="223" width="1791" height="596" key="new project wizard" timestamp="1581626423294">
+      <screen x="0" y="0" width="1920" height="1037" />
+    </state>
+    <state x="62" y="223" width="1791" height="596" key="new project wizard/0.0.1920.1037@0.0.1920.1037" timestamp="1581626423294" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1587136894787">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1587136894787" />
+  </component>
+</project>
